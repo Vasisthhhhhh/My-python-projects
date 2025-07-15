@@ -39,6 +39,7 @@ This is a Python-based number guessing game where the user tries to guess a rand
 
 -------------------------------------------------------------------------------------------------------------------------------
 
+#Example Output
 
 Guess a number between 1 and 99 (or -1 to exit): 
 50
