@@ -5,7 +5,7 @@ This is a Python implementation of the classic **Snake, Water, Gun** game. The g
 ## How to Play
 
 1. Run the Python script `main.py`.
-2. Enter your choice:
+2. Enter your choice: 
    - `S` for Snake
    - `W` for Water
    - `G` for Gun
